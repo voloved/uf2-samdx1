@@ -2,10 +2,10 @@
 #define BOARD_CONFIG_H
 
 #define VENDOR_NAME "devolov"
-#define PRODUCT_NAME "Sensor Watch Shock"
+#define PRODUCT_NAME "Sensor Watch Jolt"
 #define VOLUME_LABEL "WATCHBOOT"
 #define INDEX_URL "http://oddlyspecific.org/"
-#define BOARD_ID "OSO-JOLT-A1"
+#define BOARD_ID "DEV-JOLT-A1"
 
 #define USB_VID 0x1209
 #define USB_PID 0x2150
